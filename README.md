@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flurin099 my real name is Flurin.
+- ⚡️ I’m interested in changing the world.
+- 🌱 I’m currently learning html/css & Java Script.
